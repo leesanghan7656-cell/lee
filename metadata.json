@@ -1,0 +1,6 @@
+{
+  "name": "미스터리 골프스쿨",
+  "description": "프리미엄 1:1 맞춤 레슨과 정밀 트랙맨 스윙 분석을 제공하는 미스터리 골프스쿨 공식 홈페이지입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
